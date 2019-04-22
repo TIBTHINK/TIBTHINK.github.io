@@ -6,14 +6,16 @@ body {
     background-color: black;
     color: white;
     text-transform: uppercase;
+    list-style: none;
+    list-style-image: none;
 }
 
 .header {
   text-align: center;
 }
 
-ul.Nav{
-  list-style-type:none;
+.nav{
+  list-style: none;
 }
 
 /* unvisited link */
