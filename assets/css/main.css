@@ -10,6 +10,12 @@ body {
     list-style-image: none;
 }
 
+.logo {
+  text-align: left;
+  text-transform: none;
+  color: #18316d
+}
+
 .header {
   text-align: center;
 }
@@ -32,4 +38,10 @@ a:visited {
 
 nav ul li a:hover {
     background-color: #1d1d1e;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
